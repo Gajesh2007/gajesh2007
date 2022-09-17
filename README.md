@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/gajeshnaik" target="blank"><img src="https://img.shields.io/twitter/follow/gajeshnaik?logo=twitter&style=for-the-badge" alt="gajeshnaik" /></a> </p>
 
-- 🔭 I’m currently working on **Taksh**
+- 🔭 I’m currently working on **xNFTs**
 
-- 🌱 I’m currently learning **Rust & Anchor**
+- 🌱 I’m currently learning **Rus**
 
-- 💬 Ask me about **Solidity, Rust & Anchor**
+- 💬 Ask me about **Solidity, Rust, xNFT, Solana & Anchor**
 
 - 📫 How to reach me **https://twitter.com/gajeshnaik**
 
