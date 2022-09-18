@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **xNFTs**
 
-- 🌱 I’m currently learning **Rus**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Solidity, Rust, xNFT, Solana & Anchor**
 
