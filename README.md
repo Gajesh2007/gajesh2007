@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **REDACTED**
 
-- 🌱 I’m currently learning **Distributed Systems**
+- 🌱 I’m currently learning **The Open Network**
 
-- 💬 Ask me about **Solidity, Rust, xNFT, Solana & Anchor**
+- 💬 Ask me about **Solidity, Rust, Solana & TON**
 
-- 👷🏼‍♂️ View My Contributions **https://github.com/Gajesh2007/contributions**
+- 👷🏼‍♂️ [View My Contributions](https://github.com/Gajesh2007/contributions**)
 
 - 📫 How to reach me **https://twitter.com/gajeshnaik**
 
