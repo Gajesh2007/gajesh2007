@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **The Open Network**
 
-- 💬 Ask me about **Solidity, Rust, Solana & TON**
+- 💬 Ask me about **Solidity, Rust, Solana, LayerZero & TON**
 
 - 👷🏼‍♂️ [View My Contributions](https://github.com/Gajesh2007/contributions**)
 
