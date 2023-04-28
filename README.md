@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Solidity, Rust, Solana, LayerZero & TON**
 
-- 👷🏼‍♂️ [View My Contributions](https://github.com/Gajesh2007/contributions**)
+- 👷🏼‍♂️ [View My Contributions](https://github.com/Gajesh2007/contributions)
 
 - 📫 How to reach me **https://twitter.com/gajeshnaik**
 
