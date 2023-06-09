@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **REDACTED**
 
-- 🌱 I’m currently learning **The Open Network**
+- 🌱 I’m currently learning **REDACTED**
 
-- 💬 Ask me about **Solidity, Rust, Solana, LayerZero & TON**
+- 💬 Ask me about **Solidity, Rust, Solana, LayerZero**
 
 - 👷🏼‍♂️ [View My Contributions](https://github.com/Gajesh2007/contributions)
 
