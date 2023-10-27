@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/gajeshnaik" target="blank"><img src="https://img.shields.io/twitter/follow/gajeshnaik?logo=twitter&style=for-the-badge" alt="gajeshnaik" /></a> </p>
 
-- 🔭 I’m currently working on **REDACTED**
+- 🔭 I’m currently working on **EigenLayer**
 
-- 🌱 I’m currently learning **REDACTED**
+- 🌱 I’m currently learning **Trading Systems**
 
-- 💬 Ask me about **Solidity, Rust, Solana, LayerZero**
+- 💬 Ask me about **Solidity, Rust, EVM, Solana, Restaking**
 
 - 👷🏼‍♂️ [View My Contributions](https://github.com/Gajesh2007/contributions)
 
