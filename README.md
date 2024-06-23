@@ -24,7 +24,6 @@
 <a href="https://twitter.com/gajeshnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robogajesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gajeshnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajeshnaik" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/GajeshSNaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gajesh s naik" height="30" width="40" /></a>
-<a href="https://discord.gg/gajesh2007#0896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gajesh2007#0896" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gajesh2007&show_icons=true&locale=en" alt="gajesh2007" /></p>
