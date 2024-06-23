@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **EigenLayer**
 
-- 🌱 I’m currently learning **Trading Systems**
+- 🌱 I’m currently learning **Distributed Systems**
 
-- 💬 Ask me about **Solidity, Rust, EVM, Solana, Restaking**
+- 💬 Ask me about **Solidity, Rust, EVM, Solana, Shared Security**
 
 - 👷🏼‍♂️ [View My Contributions](https://github.com/Gajesh2007/contributions)
 
