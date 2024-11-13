@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **EigenLayer**
 
-- 🌱 I’m currently learning **Distributed Systems**
+- 🌱 I’m currently learning **LLMs**
 
 - 💬 Ask me about **Solidity, Rust, EVM, Solana, Shared Security**
 
