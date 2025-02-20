@@ -5,23 +5,23 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gajesh2007)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/gajeshnaik" target="blank"><img src="https://img.shields.io/twitter/follow/gajeshnaik?logo=twitter&style=for-the-badge" alt="gajeshnaik" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gajesh" target="blank"><img src="https://img.shields.io/twitter/follow/gajesh?logo=twitter&style=for-the-badge" alt="gajeshnaik" /></a> </p>
 
-- 🔭 I’m currently working on **EigenLayer**
+- 🔭 I’m currently working on **Eigen Labs**
 
 - 🌱 I’m currently learning **LLMs**
 
-- 💬 Ask me about **Solidity, Rust, EVM, Solana, Shared Security**
+- 💬 Ask me about **Solidity, Rust, EVM, Solana**
 
 - 👷🏼‍♂️ [View My Contributions](https://github.com/Gajesh2007/contributions)
 
-- 📫 How to reach me **https://twitter.com/gajeshnaik**
+- 📫 How to reach me **https://twitter.com/gajesh**
 
 - 📄 Know about my experiences [https://linkedin.com/in/gajeshnaik](https://linkedin.com/in/gajeshnaik)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gajeshnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robogajesh" height="30" width="40" /></a>
+<a href="https://twitter.com/gajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gajesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gajeshnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajeshnaik" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/GajeshSNaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gajesh s naik" height="30" width="40" /></a>
 </p>
