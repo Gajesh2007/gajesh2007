@@ -1,5 +1,5 @@
 <h1 align="center">Yo, I'm Gajesh</h1>
-<h3 align="center">Open Source Contributor</h3>
+<h3 align="center">Believer of Open Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajesh2007&label=Profile%20views&color=0e75b6&style=flat" alt="gajesh2007" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/gajesh" target="blank"><img src="https://img.shields.io/twitter/follow/gajesh?logo=twitter&style=for-the-badge" alt="gajeshnaik" /></a> </p>
 
-- 🔭 I’m currently working on **Eigen Labs**
+- 🔭 I’m currently working on Research & Growth at **Eigen Labs**
 
-- 🌱 I’m currently learning **LLMs**
+- 🌱 I’m currently learning **Verifiable Systems and Human Coordination**
 
 - 💬 Ask me about **Solidity, Rust, EVM, Solana**
 
